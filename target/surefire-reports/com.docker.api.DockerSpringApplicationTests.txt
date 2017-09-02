@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.docker.api.DockerSpringApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.655 sec - in com.docker.api.DockerSpringApplicationTests
